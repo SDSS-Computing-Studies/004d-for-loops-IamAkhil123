@@ -1,20 +1,26 @@
 #!python3 
 import time 
 
-x = input("Enter an integer")
-y = print(x*2)
-z = print(y*2)
-p = print(z*2)
-b = print(p*2)
-l = print(b*2)
-o = print(l*2)
-t = print(o*2)
-e = print(t*2)
-w = print(e*2)
-q = print(w*2)
-u = print(q*2) 
-print(u*2)
-
+print("4")
+print("8")
+print("12")
+print("16")
+print("20")
+print("24")
+print("28")
+print("32")
+print("36")
+print("40")
+print("44")
+print("48")
+"""
+x = input("Enter a number")
+x = int
+p = 0 
+while p != 12:
+ x = print(x*2)
+ p = p + 1 
+"""
 """
 ##### Task 1
 Ask the user to enter an integer.

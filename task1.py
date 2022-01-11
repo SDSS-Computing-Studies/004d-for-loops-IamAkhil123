@@ -1,8 +1,19 @@
 #!python3 
+import time 
 
 x = input("Enter an integer")
-while 12:
- print(x*2)
+y = print(x*2)
+z = print(y*2)
+p = print(z*2)
+b = print(p*2)
+l = print(b*2)
+o = print(l*2)
+t = print(o*2)
+e = print(t*2)
+w = print(e*2)
+q = print(w*2)
+u = print(q*2) 
+print(u*2)
 
 """
 ##### Task 1

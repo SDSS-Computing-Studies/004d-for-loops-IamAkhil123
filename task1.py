@@ -1,5 +1,9 @@
 #!python3 
 
+x = input("Enter an integer")
+while 12:
+ print(x*2)
+
 """
 ##### Task 1
 Ask the user to enter an integer.

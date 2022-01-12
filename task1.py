@@ -1,6 +1,31 @@
 #!python3 
 import time 
 
+x = input("Enter a number")
+int(x)
+p = 0 
+while p != 12:
+ x = print(x*2)
+ p = p + 1 
+
+"""
+##### Task 1
+Ask the user to enter an integer.
+Print the multiplication tables up to 12 for that number
+using a for loop instead of a while loop.
+(2 points)
+
+inputs:
+int number
+
+outputs:
+multiples of that number
+
+example:
+Enter number:4
+4 8 12 16 20 24 28 32 36 40 44 48
+"""
+"""
 print("4")
 print("8")
 print("12")
@@ -25,28 +50,4 @@ print("54")
 print("60")
 print("66")
 print("72")
-"""
-x = input("Enter a number")
-x = int
-p = 0 
-while p != 12:
- x = print(x*2)
- p = p + 1 
-"""
-"""
-##### Task 1
-Ask the user to enter an integer.
-Print the multiplication tables up to 12 for that number
-using a for loop instead of a while loop.
-(2 points)
-
-inputs:
-int number
-
-outputs:
-multiples of that number
-
-example:
-Enter number:4
-4 8 12 16 20 24 28 32 36 40 44 48
 """

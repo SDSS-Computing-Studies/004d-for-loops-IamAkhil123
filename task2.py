@@ -10,14 +10,6 @@ else:
   print("That name is not on the list")
 
 """
-while True:
- x = input("Enter your name")
- if x == List:
-  print("That name is in the list")
- else:
-  print("That name is not on the list")
-"""
-"""
 ###### Task 2
 Ask the user to enter a name.
 Check the name against a tuple that contains a series of names to see if it is a match. 

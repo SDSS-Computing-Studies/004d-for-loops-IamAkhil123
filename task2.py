@@ -5,8 +5,10 @@ x = input("Enter a name")
 for i in List:
  if i == x:
   print("That name is in the list")
- else:
+  break
+else:
   print("That name is not on the list")
+
 
 """
 while True:

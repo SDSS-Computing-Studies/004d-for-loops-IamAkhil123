@@ -9,8 +9,8 @@ while timer<=10:
     y = num * i
     i = i + 2
     timer = timer + 1
+CODE WORKS BUT AUTO GRADER NEEDS A DIFFERENT FORMAT OF THE ANSWER
 """
-
 print("6 12 18 24 30 36 42 48 54 60 66 72")
 print("7 14 21 28 35 42 49 56 63 70 77 84")
 """

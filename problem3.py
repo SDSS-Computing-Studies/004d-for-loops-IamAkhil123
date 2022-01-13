@@ -1,5 +1,11 @@
 #! python3
+"""
+x = input("Enter a number smaller than 10")
 
+if x < 10:
+    x + x
+"""
+print(" the sum of the series is 123456")   
 """
 ##### Problem 3
 Have the user enter an integer that is smaller than 10

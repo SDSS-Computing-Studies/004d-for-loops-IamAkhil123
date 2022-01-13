@@ -1,15 +1,10 @@
 #! python3
 
-"""
 list_1 = [25, 8, 10, 11, 33, 30, 51, 75, 63, 14, 20, 99]
 
 result = list (filter (lambda x: (x % 5 == 0), list_1))
 
 print("list of numbers", result)
-
-CODE WORKS BUT AUTO GRADER NEEDS A DIFFERENT FORMAT OF THE ANSWER
-"""
-print("*25[\r\n.]*10[\r\n.]*30[\r\n.]*75[\r\n.]*20")
 
 """
 ##### Task 3

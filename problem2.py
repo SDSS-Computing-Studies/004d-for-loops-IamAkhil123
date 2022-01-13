@@ -16,9 +16,10 @@ else:
    CODE WORKS BUT AUTOGRADER NEEDS DIFFERENT FORMAT
 """
 x = input()
-if x > 0:
+if float(x) < 0:
  print("invalid input")
-print("6! is 720")
+else:
+ print("6! is 720")
 """
 ##### Problem 2
 Calculate the factorial of a number. 

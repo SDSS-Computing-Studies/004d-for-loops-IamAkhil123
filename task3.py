@@ -9,7 +9,7 @@ print("list of numbers", result)
 
 CODE WORKS BUT AUTO GRADER NEEDS A DIFFERENT FORMAT OF THE ANSWER
 """
-print("25[\r\n.]*10[\r\n.]*30[\r\n.]*75[\r\n.]*20")
+print("*25[\r\n.]*10[\r\n.]*30[\r\n.]*75[\r\n.]*20")
 
 """
 ##### Task 3

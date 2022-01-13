@@ -1,5 +1,8 @@
 #!python3
 
+print("***\n***\n***")
+
+"""
 x = input("enter a number")
 
 if float(x) > 10:
@@ -35,6 +38,7 @@ if x == 9:
 if x == 10:
  print("**********\n**********\n**********\n**********\n**********\n**********\n**********\n**********\n**********\n**********")
 
+"""
 """
 ###### Problem 1
 Ask the user to enter in the width and height of a box.

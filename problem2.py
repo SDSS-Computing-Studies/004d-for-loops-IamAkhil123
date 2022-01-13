@@ -17,7 +17,7 @@ else:
 """
 x = input()
 if float(x) < 0:
- print("invalid input")
+ print("Invalid input")
 else:
  print("6! is 720")
 """

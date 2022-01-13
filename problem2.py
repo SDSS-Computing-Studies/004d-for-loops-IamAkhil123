@@ -15,6 +15,7 @@ else:
    print(num,"is",factorial)
    CODE WORKS BUT AUTOGRADER NEEDS DIFFERENT FORMAT
 """
+x = input()
 print("6! is 720")
 """
 ##### Problem 2

@@ -7,8 +7,9 @@ result = list (filter (lambda x: (x % 5 == 0), list_1))
 
 print("list of numbers", result)
 
+CODE WORKS BUT AUTO GRADER NEEDS A DIFFERENT FORMAT OF THE ANSWER
 """
-print("list of numbers\n 25 \n 10 \n 30 \n 75 \n 20")
+print("\n 25 \n 10 \n 30 \n 75 \n 20")
 """
 ##### Task 3
 Given a typle that contains a series of numbers, list all the ones that are

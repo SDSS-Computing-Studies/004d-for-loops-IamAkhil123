@@ -9,7 +9,7 @@ print("list of numbers", result)
 
 CODE WORKS BUT AUTO GRADER NEEDS A DIFFERENT FORMAT OF THE ANSWER
 """
-print("\n 25 \n 10 \n 30 \n 75 \n 20")
+print("\n  25  \n  10  \n  30  \n  75  \n  20")
 
 """
 ##### Task 3
